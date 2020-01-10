@@ -14,4 +14,9 @@ radhika
 
 new demo
 
+<<<<<<< HEAD
 clode program
+=======
+
+closed program
+>>>>>>> file1 is updated for change
