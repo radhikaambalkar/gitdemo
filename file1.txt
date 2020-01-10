@@ -1,5 +1,9 @@
 hello
+welcome to git
 
 feature 1-Login
 
 featurre 2- logout
+bug1-fixed
+
+chcek
