@@ -1,13 +1,13 @@
 hello
 welcome to git
 
-feature 1-Login  -updated by 
+feature 1-Login  -updated by all
 
 featurre 2- logout
 
 
 check
+Bug 1-fixed
 
 Bug 2-fixed
-
 radhika
